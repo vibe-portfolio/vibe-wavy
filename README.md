@@ -79,3 +79,4 @@ MIT License - feel free to use this project for your own purposes.
 ---
 
 Built with [v0](https://v0.dev) by Vercel
+
